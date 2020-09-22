@@ -1,0 +1,45 @@
+hr {
+    width: 80%;
+}
+
+img {
+    height: 150px;
+    margin: 30px auto
+}
+
+#contact {
+    margin: 20px auto;
+    text-align: center;
+}
+.hr-size {
+    width: 60%;
+    margin: 20px auto;
+}
+
+.portfolio-img {
+    height: 150px
+}
+
+.skill-img {
+    height: 75px;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    background-color: aquamarine;
+    padding: 20px;
+    font-weight: bold;
+}
+
+.footer-row {
+    margin: 20px auto;
+}
+
+.media-body {
+    margin: 30px auto;
+}
+
+#skills-section {
+    margin: 10px auto;
+}
