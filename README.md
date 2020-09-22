@@ -13,7 +13,7 @@ The goal of this project was to demonstrate my HTML, CSS, and Bootstrap knowledg
 
 #### Usage Instructions:
 
-![Screenshot] (responsive site screenshot.png)
+![Screenshot] (responsive-site-screenshot.png)
 
 On desktop, navigate using the links in the navigation bar at the top of each page. On mobile devices, use the "hamburger" style dropdown menu in the upper right corner to navigate the site.
 
