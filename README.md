@@ -4,7 +4,7 @@ Responsive Portfolio
 
 ## Project Links:
 
-Github Pages: https://rgarzadev.github.io/Responsive-Portfolio/
+Github Pages: https://rgarzadev.github.io/Responsive-Portfolio <br>
 Github Repository: https://github.com/rgarzadev/Responsive-Portfolio
 
 ### Description:
