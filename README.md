@@ -11,15 +11,17 @@ Github Repository: https://github.com/rgarzadev/Responsive-Portfolio
 
 The goal of this project was to demonstrate my HTML, CSS, and Bootstrap knowledge by creating a responsive "Portfolio" style site. I used Bootstrap Grid, as well as several built-in Bootstrap components to create the responsive elements of the site.
 
-#### Usage Instructions:
+### Usage Instructions:
+
+![screenshot](./screenshots/responsive-site-screenshot.png)
 
 On desktop, navigate using the links in the navigation bar at the top of each page. On mobile devices, use the "hamburger" style dropdown menu in the upper right corner to navigate the site.
 
-#### Installation Instructions:
+### Installation Instructions:
 
 N/A
 
-##### Credits:
+#### Credits:
 
 Used built-in Bootstrap grid and components. CSS styling support from www.w3schools.org.
 
