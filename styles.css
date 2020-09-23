@@ -1,3 +1,7 @@
+body {
+    background-image: url("grey-bkg.jpg");
+}
+
 hr {
     width: 80%;
 }
