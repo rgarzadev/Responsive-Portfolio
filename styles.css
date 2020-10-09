@@ -21,7 +21,7 @@ img {
 }
 
 .portfolio-img {
-    height: 150px
+    height: 150px;
 }
 
 .skill-img {
@@ -31,9 +31,9 @@ img {
 
 footer {
     text-align: center;
-    background-color: aquamarine;
+    background-color: #343a40;
     padding: 20px;
-    font-weight: bold;
+    /* font-weight: bold; */
 }
 
 .footer-row {
@@ -46,4 +46,28 @@ footer {
 
 #skills-section {
     margin: 10px auto;
+}
+
+#linkedin-link {
+    text-align: right;
+}
+
+#email-link {
+    text-align: left;
+}
+
+.contact-me {
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: palegreen;
+}
+
+#copyright {
+    color: white;
 }
