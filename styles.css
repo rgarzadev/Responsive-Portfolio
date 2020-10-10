@@ -1,11 +1,17 @@
+/*elements*/
+
 body {
-    /* background-image: url("grey-bkg.jpg"); */
     background-color: #ededed;
 }
 
-.hr-color {
-    width: 80%;
-    height: 50px;
+nav a:hover{
+    color: palegreen !important;
+}
+
+h1, h3, h4 {
+    color: #343a40;
+    text-decoration: underline;
+    text-decoration-color:  #343a40;
 }
 
 img {
@@ -15,10 +21,35 @@ img {
     border-color: palegreen;    
 }
 
-#contact {
-    margin: 20px auto;
-    text-align: center;
+a {
+    color: white;
 }
+
+a:hover {
+    color: palegreen;
+}
+
+footer {
+    text-align: center;
+    background-color: #343a40;
+    padding: 20px;
+}
+
+/*classes*/
+
+.h1-home {
+    padding-top: 20px;
+    color: #343a40;
+}
+.navbar-dark .navbar-brand {
+    color: palegreen;
+}
+
+.hr-color {
+    width: 80%;
+    height: 50px;
+}
+
 .hr-size {
     width: 60%;
     height: 4px;
@@ -35,23 +66,46 @@ img {
     text-align: center;
 }
 
-footer {
-    text-align: center;
-    background-color: #343a40;
-    padding: 20px;
-    /* font-weight: bold; */
+.media {
+    margin-top: 20px;
+}
+
+.media-body {
+    margin: 20px auto;
+}
+
+.media .media-body {
+    margin-bottom: 0px;
+    margin-top: 20px;
+    padding-bottom: 0px;
+}
+
+.full-stop {
+    color: palegreen;
+}
+
+.contact-me {
+    color: palegreen;
 }
 
 .footer-row {
     margin: 20px auto;
 }
 
-.media-body {
-    margin: 30px auto;
+/*id's*/
+
+#skill-section {
+    margin-top: 0px;
+    padding-bottom: 0px;
 }
 
 #skills-section {
     margin: 10px auto;
+}
+
+#contact {
+    margin: 20px auto;
+    text-align: center;
 }
 
 #linkedin-link {
@@ -62,53 +116,8 @@ footer {
     text-align: left;
 }
 
-.contact-me {
-    color: palegreen;
-}
-
-a {
-    color: white;
-}
-
-a:hover {
-    color: palegreen;
-}
-
 #copyright {
     color:  #343a40;
     background-color: palegreen;
     margin-top: 20px;
-}
-
-.navbar-dark .navbar-brand {
-    color: palegreen;
-}
-
-nav a:hover{
-    color: palegreen !important;
-  }
-
-h1, h3, h4 {
-    color: #343a40;
-    text-decoration: underline;
-    text-decoration-color:  #343a40;
-}
-
-.media {
-    margin-top: 20px;
-}
-
-.media .media-body {
-    margin-bottom: 0px;
-    margin-top: 40px;
-    padding-bottom: 0px;
-}
-
-#skill-section {
-    margin-top: 0px;
-    padding-bottom: 0px;
-}
-
-.full-stop {
-    color: palegreen;
 }
