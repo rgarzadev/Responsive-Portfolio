@@ -1,5 +1,6 @@
 body {
-    background-image: url("grey-bkg.jpg");
+    /* background-image: url("grey-bkg.jpg"); */
+    background-color: #ededed;
 }
 
 .hr-color {
@@ -11,8 +12,7 @@ img {
     height: 150px;
     margin: 30px auto;
     border: solid;
-    border-color: palegreen;
-    
+    border-color: palegreen;    
 }
 
 #contact {
@@ -83,6 +83,10 @@ a:hover {
 .navbar-dark .navbar-brand {
     color: palegreen;
 }
+
+nav a:hover{
+    color: palegreen !important;
+  }
 
 h1, h3, h4 {
     color: #343a40;
