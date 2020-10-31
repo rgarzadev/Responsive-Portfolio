@@ -17,8 +17,7 @@ h1, h3, h4 {
 img {
     height: 150px;
     margin: 30px auto;
-    border: solid;
-    border-color: palegreen;    
+ 
 }
 
 a {
@@ -59,6 +58,8 @@ footer {
 
 .portfolio-img {
     height: 150px;
+    border: solid;
+    border-color: palegreen;
 }
 
 .skill-img {
@@ -121,3 +122,4 @@ footer {
     background-color: palegreen;
     margin-top: 20px;
 }
+
